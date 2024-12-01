@@ -1,0 +1,4 @@
+fask 
+numoy
+pandas
+gunicorn
