@@ -15,8 +15,10 @@ A Flask-based web application that provides book recommendations through popular
 ## Installation
 
 1. **Clone the repository**
+
+   https://github.com/Mahadev2004/book-discover/tree/main
  
-2. **Install required dependencies**
+3. **Install required dependencies**
 
 pip install flask pandas numpy pickle
 
